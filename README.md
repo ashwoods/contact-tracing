@@ -25,4 +25,8 @@ But noone can reverse engineer the data to find out who or where John is.
 
 Anonymity discovery, balancing public usefulness with privacy. Obviously max usefulness is having a record of every interaction between people, and have access to the full graph, including name and address so that you extract them and isolate them immediately in underwater detention and re-education centers.
 
-That's why I believe that an application like this has to be: anonymous, decentralized, opensource, and keep the data from leaving the phone in the first place.  
+That's why I believe that an application like this has to be: anonymous, decentralized, opensource, and keep the data from leaving the phone in the first place. 
+
+## Next steps
+
+After collecting some feedback, I'd like to do a public call for ideas/help. I believe a project of this type can only be possible if it is community driven and in deep collaboration with all stackholders.  
