@@ -85,3 +85,7 @@ would want to have a PoC in a weeks time. 23.03.2019.
 ## Next steps
 
 After collecting some feedback, I'd like to do a public call for ideas/help. I believe a project of this type can only be possible if it is community driven and in deep collaboration with all stakeholders.  
+
+## Links
+
+https://github.com/BDI-pathogens/covid-19_instant_tracing
